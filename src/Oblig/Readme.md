@@ -42,3 +42,11 @@ Metoden plaid kalles med flere strenger som argumenter. Den skriver ut den samme
 
 
 // chatGPT er brukt i situasjoner jeg har manglet enkelte ord, og for å forklare konsepter.
+
+
+Svar på teoretiske spørsmål knyttet til oppgave_1:
+
+a.) Programmet går gjennom alle elementer i tabellen for sammenlikning.
+b.) Dette skjer når programmet går gjennom listen synkende.
+c.) Flest ombyttinger skjer når tabellen er sortert i omvendt rekkefølge, dvs. den største verdien er på starten av tabellen og den minste verdien er på slutten.
+d.) For å beregne det gjennomsnittlige antallet ombyttinger, må vi vurdere alle mulige permutasjoner av arrayet og finne et mønster. For en tilfeldig permutasjon av tallene fra 1 til 𝑛 n, kan det gjennomsnittlige antallet ombyttinger være representert ved 𝑛 −1. n−1 ombyttinger per bytte. 
