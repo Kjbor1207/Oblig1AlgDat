@@ -27,3 +27,5 @@ public class Oppgave_1 {
             System.out.println(max(arr));
         }
     }
+
+    // Besvart i sin helhet med hjelp av chatGPT.

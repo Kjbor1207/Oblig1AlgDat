@@ -29,3 +29,5 @@ public class Oppgave_3 {
         System.out.println("Is the numbers of the numbers sorted in list");
     }
 }
+
+// Besvart i sin helhet med hjelp hjelp av chatGPT.

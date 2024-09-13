@@ -32,3 +32,5 @@ public class Oppgave_2 {
         return antallUlike;
     }
 }
+
+// Besvart i sin helhet med hjelp av chatGPT.

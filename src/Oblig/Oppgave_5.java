@@ -23,4 +23,5 @@ public class Oppgave_5 {
         }
     }
 
+    // Besvart i sin helhet med hjelp av chatGPT.
 }

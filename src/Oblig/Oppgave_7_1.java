@@ -26,3 +26,5 @@ public class Oppgave_7_1 {
         System.out.println(plait("", "AB"));
     }
 }
+
+// Besvart i sin helhet med hjelp av chatGPT.

@@ -68,3 +68,5 @@ public class Oppgave_4 {
         System.out.println(Arrays.toString(a));
     }
 }
+
+// Besvart i sin helhet med hjelp av chatGPT.
